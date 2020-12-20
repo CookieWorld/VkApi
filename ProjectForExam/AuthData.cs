@@ -8,11 +8,11 @@ namespace ProjectForExam
 {
     class AuthData
     {
-        public static string Login = "89518840661";
+        public static string Login = "";
 
-        public static string Password = "4858nIkI35273RuS555";
+        public static string Password = "";
 
-        public static ulong AppID = 7662284;
+        public static ulong AppID = ;
 
 
     }
